@@ -7,7 +7,7 @@ Clicker hra inšpirovaná Cookie Clickerom – hráč zbiera cigarety, za ktoré
 ## 🧩 O projekte
 
 - **Typ:** 2D idle clicker / paródia  
-- **Engine:** Unity (C#)  
+- **Engine:** Unity (Visual Scripting)
 - **Popis:** Hráč kliká na cigarety a za získané cigarety si kupuje vylepšenia, ktoré zvyšujú zisk. Hra paroduje klasické clicker hry absurdným námetom.
 
 ---
